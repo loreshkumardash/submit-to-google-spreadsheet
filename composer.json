@@ -1,0 +1,14 @@
+{
+    "name": "kumar/coaching",
+    "description": "A PHP project using Google Sheets as backend",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Loresh",
+            "email": "kumarloresh143@gmail.com.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.18"
+    }
+}
